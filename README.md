@@ -1,4 +1,4 @@
-# backing-vocalist-orchestrator
+# audio-analysis-mcp-client
 
 A Python HTTP client for calling the audio-analysis-mcp server from your own orchestrator model or plugin. Use this when you need to drive the MCP server programmatically without going through a Claude or MCP-compatible client.
 
